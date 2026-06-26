@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 ### About me
 
-Software Engineer turned Azure Data Engineer, with 5 years of experience in backend engineering, API integration, and production problem-solving — now focused on building reliable, end-to-end data pipelines on Azure.
+Software Engineer turned Azure Data Engineer, with 5 years of experience in backend engineering, API integration, and production problem-solving now focused on building reliable, end-to-end data pipelines on Azure.
 
 I work across the full data engineering lifecycle: **ingestion → transformation → storage → serving → monitoring → governance**, combining real production engineering discipline with hands-on Azure cloud data engineering capability.
 
