@@ -81,8 +81,6 @@ Built a Python pipeline that extracts data from REST APIs and loads it into a re
 
 `Python` `REST APIs` `ETL` `Error Handling & Retries`
 
-> Replace the links above with your actual repo URLs once pushed.
-
 ---
 
 ### Experience snapshot
