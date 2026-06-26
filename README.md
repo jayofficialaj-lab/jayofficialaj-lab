@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jayofficialaj-lab/jayofficialaj-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">I'm Ajay Sakinana 👋</h1>
+<h1 align="center">Hey I'm Ajay Sakinana 👋</h1>
 <h3 align="center">Azure Data Engineer | Python | SQL | Azure Data Factory | Databricks | Synapse</h3>
 
 <p align="center">
