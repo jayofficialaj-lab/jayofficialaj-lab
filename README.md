@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi, I'm Ajay Sakinana 👋</h1>
+<h1 align="center">I'm Ajay Sakinana 👋</h1>
 <h3 align="center">Azure Data Engineer | Python | SQL | Azure Data Factory | Databricks | Synapse</h3>
 
 <p align="center">
