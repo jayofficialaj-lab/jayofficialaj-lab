@@ -50,17 +50,9 @@
 ### 💼 Experience
 
 **DevOps Engineer** — *Cigres Technologies Private Limited*, Bangalore, India `2023 – 2026`
-- Built and maintained CI/CD pipelines, cutting manual deployment effort and improving release efficiency.
-- Designed containerization strategy with Docker & Kubernetes, improving resource utilization.
-- Set up GitLab repository mirroring and managed Git/SVN version control workflows.
-- Implemented monitoring and alerting to reduce downtime for critical applications.
-- Deployed and managed pipelines on **Adobe Cloud Manager**.
 
 **DevOps Engineer** — *Torry Harris Business Solutions*, Bangalore, India `2021 – 2023`
-- Designed cloud-native deployment and virtualization solutions.
-- Built alert notification scripts and improved error-rate alert logic for microservices in production.
-- Managed Kubernetes cluster operations: node allocation, monitoring, on-call incident response.
-- Set up Git/Jenkins workflows and led automation knowledge-transfer sessions for QA teams.
+
 
 ---
 
