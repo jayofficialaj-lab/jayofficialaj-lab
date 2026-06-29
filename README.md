@@ -20,7 +20,6 @@
 - 🔍 Use **SonarQube** for code scanning to catch bugs and security vulnerabilities early.
 - ☁️ Hands-on with **Infrastructure as Code (Terraform)** and cloud platforms including AWS and Adobe Cloud Manager.
 - 🤝 Strong collaborator — resolve blockers/critical issues fast, run KT sessions, and support on-call production incidents.
-- 🏆 AWS Certified Solutions Architect – Associate.
 
 ---
 
@@ -63,18 +62,6 @@
 - Built alert notification scripts and improved error-rate alert logic for microservices in production.
 - Managed Kubernetes cluster operations: node allocation, monitoring, on-call incident response.
 - Set up Git/Jenkins workflows and led automation knowledge-transfer sessions for QA teams.
-
----
-
-### 🎓 Education
-**Bachelor of Engineering** — Welfare Institute of Science and Technology, Visakhapatnam, India
-
-### 📜 Certifications
-- AWS Certified Solutions Architect – Associate
-
-### 🏅 Accomplishments
-- Recognized as **Impact Maker of the Quarter** and **Excellent Contributor of the Year**.
-- Multiple customer appreciations for high-quality, on-time delivery.
 
 ---
 
