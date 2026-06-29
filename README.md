@@ -18,7 +18,7 @@
 - 📦 Experienced with **Nexus Artifactory** for managing binaries, libraries, and dependencies.
 - 🔍 Use **SonarQube** for code scanning to catch bugs and security vulnerabilities early.
 - ☁️ Hands-on with **Infrastructure as Code (Terraform)** and cloud platforms including AWS and Adobe Cloud Manager.
-- 🤝 Strong collaborator — resolve blockers/critical issues fast, run KT sessions, and support on-call production incidents.
+- 🤝 Strong collaborator, resolve blockers/critical issues fast, run KT sessions, and support on-call production incidents.
 
 ---
 
