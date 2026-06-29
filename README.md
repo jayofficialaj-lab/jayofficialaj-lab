@@ -6,7 +6,6 @@
     <img src="https://img.shields.io/badge/Email-jay.officialaj%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
   <img src="https://img.shields.io/badge/Location-Bangalore%2C%20India-informational?style=flat" />
-  <img src="https://img.shields.io/badge/Phone-%2B91--7075219092-success?style=flat" />
 </p>
 
 ---
